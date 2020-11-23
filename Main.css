@@ -6,6 +6,6 @@
     border: solid;
 }
 .logo {
-    width: 400px;
-    height: 200px;
+    height: 210px;
+    border-right: black solid;
 }
